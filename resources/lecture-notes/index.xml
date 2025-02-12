@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1: Local and global geometry of plane curves</title>
+      <link>/resources/ch1_revised/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ch1_revised/data.json</guid>
+      <description>Lecture notes on local and global geometry of plane curves.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2: Local geometry of hypersurfaces</title>
+      <link>/resources/ch2_revised/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ch2_revised/data.json</guid>
+      <description>Lecture notes on local geometry of hypersurfaces.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3: Global geometry of hypersurfaces</title>
+      <link>/resources/ch3_revised/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ch3_revised/data.json</guid>
+      <description>Lecture notes on global geometry of hypersurfaces.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 4: Geometry of lengths and distances</title>
+      <link>/resources/ch4_revised/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ch4_revised/data.json</guid>
+      <description>Lecture notes on geometry of lengths and distances.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>The lecture notes are divided into chapters.
+LEC # TOPICS 1-10 Chapter 1: Local and global geometry of plane curves (PDF) 11-23 Chapter 2: Local geometry of hypersurfaces (PDF) 24-35 Chapter 3: Global geometry of hypersurfaces (PDF) 36-41 Chapter 4: Geometry of lengths and distances (PDF) </description>
+    </item>
+    
+  </channel>
+</rss>
